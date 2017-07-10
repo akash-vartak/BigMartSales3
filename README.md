@@ -39,10 +39,10 @@ I have first calculated the least RMSE error on the train dataset for each of *R
 Then which ever model has least RMSE is used on test data. This is done so that the code runs optimised on private the data test.
 
 ## Rank
-**This is as of 13th March, 2017**
+**As of 13th March, 2017**
 
-This code is currently ranked 44/5129
+This code was ranked 44/5129
 
 RMSE: 1146.900301
 
-RMSE of current rank #1: 1135.203200
+RMSE of rank #1: 1135.203200
